@@ -1,1 +1,2 @@
-este es mi repo y es mi primer cambio
+este es mi repo y es mi primer cambi
+Este es mi repo y es mi segundo cambio
